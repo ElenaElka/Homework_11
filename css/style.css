@@ -84,23 +84,39 @@ a {
 /* Страничка жанров и тегов */
 
 .genre-first {
-
-}
+    background-color: #E1F5EA;
+    border-radius: 6px;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    }
 
 .genre-second {
-
+    background-color: #CBEDFF;
+    border-radius: 6px;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    width: 70%;
 }
 
 .genre-third {
-
+    background-color: #FFE4B5;
+    border-radius: 6px;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    width: 50%;
 }
 
 .genre-fourth {
-
+    background-color: #DDA0DD;
+    border-radius: 6px;
+    margin: 10px 0px;
+    padding: 5px 5px;
+    width: 30%;
 }
 
 .tag {
-
+    font-family: serif;
+    font-size:20px;
 }
 
 /* Страничка популярного */
