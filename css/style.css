@@ -48,7 +48,7 @@ a {
 /* Потом селекторы по классам */
 
 .text-input {
-
+    font-size: 50px;
 }
 
 .button {
@@ -127,3 +127,20 @@ a {
 .button-link {
 
 }
+
+h3 {
+    font-family: arial;
+    margin-top: 10px;
+    margin-button: 100px;
+}
+
+.button-link {
+    background-color: #7B68EE;
+    color: white;
+    border-radius: 4px;
+    boder-width: 1px;
+    border-style:solid;
+    border-color: #7B68EE;
+    text-decoration: none;
+    padding:10px 30px;
+    margin-right:10px;
