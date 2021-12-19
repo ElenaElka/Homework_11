@@ -16,7 +16,19 @@ main {
 }
 
 p {
+	line-height:1.5;
+	margin-top: 35px;
+	font-family: arial;
+}
 
+a {
+
+}
+h2 {
+    margin: 20px 0px;
+    padding: 5px 5x;
+    font-size: 30px;
+    font-family: arial;
 }
 
 a {
@@ -26,10 +38,10 @@ a {
 /* Колонки */
 
 .row {
-
+    display: flex;
 }
 .col {
-
+    flex: auto;
 }
 
 
@@ -94,8 +106,9 @@ a {
 /* Страничка популярного */
 
 .cover {
-
+    padding: 10px 0px;
 }
+
 
 /* Страничка подписки  */
 
