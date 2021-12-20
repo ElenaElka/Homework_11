@@ -135,19 +135,42 @@ a {
 /* Страничка подписки  */
 
 .box-green {
+    background-color: #E1F5EA;
+    border-radius: 3px;
+    margin: 20px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    family-size: aria;
 
 }
 
 .box-purple {
-
+    background-color: #DDA0DD;
+    border-radius: 3px;
+    margin: 20px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    family-size: aria;
 }
 
 .text-large {
 
 }
 
-.button-link {
-
+.button-link2 {
+    width: 170px;
+    font-size: 15px;
+    font-family: aria;
+    height: 40px;
+    background-color: #7B68EE;
+    color: white;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #7B68EE;
 }
 
 h3 {
