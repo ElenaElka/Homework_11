@@ -48,11 +48,17 @@ a {
 /* Потом селекторы по классам */
 
 .text-input {
-    font-size: 50px;
+    font-size: 15px;
+    padding: 15x 15px;
+    border: solid 1px DarkGrey;
+    border-radius: 3px;
+    height: 50px;
+    margin: 10px 0px;
+    width: 300px;
 }
 
 .button {
-
+    font-size: 15px;
 }
 
 /* Потом специальные правила по страничкам */
@@ -154,9 +160,13 @@ h3 {
     background-color: #7B68EE;
     color: white;
     border-radius: 4px;
-    boder-width: 1px;
+    border-width: 1px;
     border-style:solid;
     border-color: #7B68EE;
     text-decoration: none;
     padding:10px 30px;
     margin-right:10px;
+
+.d {
+   font-size: 50px;
+}
